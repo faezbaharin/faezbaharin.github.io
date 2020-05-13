@@ -1,8 +1,8 @@
 - layout: left
   name: Corona Tracker
-  # link: github.com/sproogen
+  link: shorturl.at/wG248
   description: | # this will include new lines to allow paragraphs
-    Tracking status of Covid-19 virus, almost 10 country available for users to select in order to view status for specific country. Developed using <mark>Flutter</mark>.
+    Tracking status of Covid-19 virus, almost 10 country available for users to select in order to view status for specific country. Data is fully integrated with live data (API). Currently only APK files is available to install for Android. Developed using <mark>Flutter</mark>.
 
 - layout: left
   name: An-Nur Management System
