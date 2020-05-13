@@ -8,8 +8,8 @@
     An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account volunteer and view event information avaible which they can join.
     |
     Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>
-
-    (https://github.githubassets.com/images/icons/emoji/octocat.png)
+    
+  about_profile_image: images/icon.png
 
 - layout: left
   name: Super awesome project
