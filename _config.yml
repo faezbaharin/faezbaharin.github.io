@@ -30,13 +30,13 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>PHP</mark> <mark>LARAVEL</mark> <mark>FLUTTER</mark>
 
 # Education Section
-educaton_title: Education
+# educaton_title: Education
 
 # Projects Section
-projects_title: Projects
+# projects_title: Projects
 
 # Experience Section
-experience_title: Experience
+# experience_title: Experience
 
 
 
