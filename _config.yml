@@ -3,8 +3,8 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: Faez Baharin
+title: Flutter Developer / Web Designer
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
@@ -47,7 +47,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
