@@ -1,4 +1,19 @@
 - layout: left
+  name: Corona Tracker
+  # link: github.com/sproogen
+  description: | # this will include new lines to allow paragraphs
+    Tracking status of Covid-19 virus, almost 10 country available for users to select in order to view status for specific country. Developed using <mark>Flutter</mark>.
+
+- layout: left
+  name: An-Nur Management System
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account volunteer and view event information avaible which they can join. Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>.
+
+- layout: left
   name: An-Nur Management System
   # link: github.com/sproogen
   # github: sproogen/resume-theme
@@ -6,10 +21,7 @@
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account volunteer and view event information avaible which they can join.
-    |
-    Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>
-    
-  about_profile_image: images/icon.png
+     Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>.
 
 - layout: left
   name: Super awesome project
