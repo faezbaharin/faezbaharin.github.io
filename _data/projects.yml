@@ -6,7 +6,7 @@
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account volunteer and view event information avaible which they can join.
-   | # this will include new lines to allow paragraphs
+    |
     Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>
 
 - layout: left
