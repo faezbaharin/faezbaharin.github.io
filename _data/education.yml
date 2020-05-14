@@ -5,6 +5,12 @@
   description: | # this will include new lines to allow paragraphs
     Bachelor of Information Technology (Hons.) Information System Engineering.
 
+- layout: left
+  name: Politeknik Sultan Mizan Zainal Abidin 
+  dates: 2013 - 2016
+  qualification: Department of Information Technology and Communication
+  description: | # this will include new lines to allow paragraphs
+    Diploma in Information Technology (Programming).
 
 # - layout: left
 #   name: Harvard University
