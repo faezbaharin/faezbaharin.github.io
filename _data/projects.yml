@@ -7,7 +7,7 @@
 
     ![world_stats](./images/world_stats.jpg)
 
-- layout: left
+- layout: right
   name: BMI Calculator
   description: |+ # this will include new lines to allow paragraphs
     Beautiful BMI calculator application for Android, users able to calculate their BMI using interative design. Available in Google Play, download [here](https://play.google.com/store/apps/details?id=faezbaharindev.bmi_calc_flutter). 
@@ -32,7 +32,7 @@
     Main function CM Valley is to assist the users to select compatible cameras and accessories easier using interactive diagram.
     Main project run locally but you can try the prototype live version [here](https://cm-visualization.herokuapp.com/). 
 
-    Developed using <mark>Laravel</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
+    Developed using <mark>Laravel</mark> <mark>Bootstrap</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
 
     ![cmvalley](./images/cmvalley_frame.png)
 
