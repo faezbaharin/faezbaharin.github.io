@@ -19,25 +19,28 @@
 - layout: left
   name: Digital Certificate Authentication System
   description: |+ # this will include new lines to allow paragraphs
-    Beautiful BMI calculator application for Android, users able to calculate their BMI using interative design. Available in Google Play, download [here](https://play.google.com/store/apps/details?id=faezbaharindev.bmi_calc_flutter). 
+    This system is developed for specific University, allow the staff to generate student data into certificate in PDF. Certificate is fully customizable.
+    Project run locally.
 
     Developed using <mark>Laravel</mark> <mark>MySQL</mark>.
 
-    ![bmi_calculator](./images/dca_frame.png)
+    ![dca](./images/dca_frame.png)
 
 - layout: left
   name: CM Valley Visualization System
   description: |+ # this will include new lines to allow paragraphs
-    Beautiful BMI calculator application for Android, users able to calculate their BMI using interative design. Available in Google Play, download [here](https://play.google.com/store/apps/details?id=faezbaharindev.bmi_calc_flutter). 
+    Main function CM Valley is to assist the users to select compatible cameras and accessories easier using interactive diagram.
+    Main project run locally but you can try the prototype live version [here](https://cm-visualization.herokuapp.com/). 
 
     Developed using <mark>Laravel</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
 
-    ![bmi_calculator](./images/cmvalley_frame.png)
+    ![cmvalley](./images/cmvalley_frame.png)
 
 - layout: left
   name: An-Nur Management System
   description: |+ # this will include new lines to allow paragraphs
     An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account volunteer and view event information available which they can join.
+    Project run locally.
     
     Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>.
 
