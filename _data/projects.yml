@@ -17,6 +17,24 @@
     ![bmi_calculator](./images/bmicalculator.jpg)
 
 - layout: left
+  name: Digital Certificate Authentication System
+  description: |+ # this will include new lines to allow paragraphs
+    Beautiful BMI calculator application for Android, users able to calculate their BMI using interative design. Available in Google Play, download [here](https://play.google.com/store/apps/details?id=faezbaharindev.bmi_calc_flutter). 
+
+    Developed using <mark>Laravel</mark> <mark>MySQL</mark>.
+
+    ![bmi_calculator](./images/bmicalculator.jpg)
+
+- layout: left
+  name: CM Valley Visualization System
+  description: |+ # this will include new lines to allow paragraphs
+    Beautiful BMI calculator application for Android, users able to calculate their BMI using interative design. Available in Google Play, download [here](https://play.google.com/store/apps/details?id=faezbaharindev.bmi_calc_flutter). 
+
+    Developed using <mark>Laravel</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
+
+    ![bmi_calculator](./images/bmicalculator.jpg)
+
+- layout: left
   name: An-Nur Management System
   description: |+ # this will include new lines to allow paragraphs
     An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account volunteer and view event information available which they can join.
