@@ -29,7 +29,7 @@
 - layout: left
   name: CM Valley Visualization System
   description: |+ # this will include new lines to allow paragraphs
-    Main function CM Valley is to assist the users to select compatible cameras and accessories easier using interactive diagram.
+    Main function of CM Valley is to assist the users to select compatible cameras and accessories easier using interactive diagram.
     Main project run locally but you can try the prototype live version [here](https://cm-visualization.herokuapp.com/) (best experience with desktop size). 
 
     Developed using <mark>Laravel</mark> <mark>Bootstrap 4</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
@@ -39,7 +39,7 @@
 - layout: left
   name: An-Nur Management System
   description: |+ # this will include new lines to allow paragraphs
-    An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account volunteer and view event information available which they can join.
+    An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account and view event information available, which they can join as a volunteer.
     Project run locally.
     
     Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>.
