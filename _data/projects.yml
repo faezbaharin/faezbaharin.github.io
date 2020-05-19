@@ -1,7 +1,7 @@
 - layout: left
   name: Corona Tracker
   description: |+ # this will include new lines to allow paragraphs
-    Tracking status of Covid-19 virus, almost 10 country available for users to select in order to view status for specific country. Data is fully integrated with live data (API). Currently only APK files is available to install for Android, download [here](https://drive.google.com/open?id=1wnEQVTkpoW1dppLFJXgLbnJeEeDTU59u). 
+    Tracking status of Covid-19 virus, almost 10 country available for users to select in order to view status for specific country. Data is fully integrated with live data (API). Currently only APK files is available to install for Android, download here [World Stats (v1.2.0)](https://drive.google.com/open?id=1rkghmHt3H_G__79Or2fLJZGq9b2nyhQf). 
 
     Developed using <mark>Flutter</mark> <mark>API</mark>.
 
