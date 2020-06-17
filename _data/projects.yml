@@ -32,7 +32,7 @@
     Main function of CM Valley is to assist the users to select compatible cameras and accessories easier using interactive diagram.
     Main project run locally but you can try the prototype live version [here](https://cm-visualization.herokuapp.com/) (best experience with desktop size). 
 
-    Developed using <mark>Laravel</mark> <mark>Bootstrap 4</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
+    Develope using <mark>Laravel</mark> <mark>Bootstrap 4</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
 
     ![cmvalley](./images/cmvalley.png)
 
