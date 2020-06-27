@@ -1,7 +1,7 @@
 - layout: left
   name: Airy Weather
   description: |+ # this will include new lines to allow paragraphs
-    Weather application which have accurate current weather information. This application enable the user to check current weather information for most of the city by GPS or search city name. Available in **Google Play**, download [here](https://play.google.com/store/apps/details?id=faezbaharin.airy_weather).
+    Weather applications that have accurate current weather information. This application allows the user to check the current weather information for most of the city by GPS or by searching the name of the city. Available in **Google Play**, download [here](https://play.google.com/store/apps/details?id=faezbaharin.airy_weather).
 
     Developed using <mark>Flutter</mark> <mark>API</mark>.
 
@@ -10,7 +10,7 @@
 - layout: left
   name: Corona Tracker
   description: |+ # this will include new lines to allow paragraphs
-    Tracking status of Covid-19 virus, almost 10 country available for users to select in order to view status for specific country. Data is fully integrated with live data (API). Currently only APK files is available to install for Android, download here [World Stats (v1.2.0)](https://drive.google.com/open?id=1rkghmHt3H_G__79Or2fLJZGq9b2nyhQf). 
+    Tracking status of the Covid-19 virus, more than 10 countries available for users to select in order to view status for a specific country. Data is fully integrated with live data (APIs). Currently only APK files is available to install for Android, download here [World Stats (v1.2.0)](https://drive.google.com/open?id=1rkghmHt3H_G__79Or2fLJZGq9b2nyhQf). 
 
     Developed using <mark>Flutter</mark> <mark>API</mark>.
 
@@ -19,7 +19,7 @@
 - layout: left
   name: BMI Calculator
   description: |+ # this will include new lines to allow paragraphs
-    Beautiful BMI calculator application for Android, users able to calculate their BMI using interative design. Available in **Google Play**, download [here](https://play.google.com/store/apps/details?id=faezbaharindev.bmi_calc_flutter). 
+    Beautiful Android BMI calculator application that allows users to calculate their BMI using interactive design. Available in **Google Play**, download [here](https://play.google.com/store/apps/details?id=faezbaharindev.bmi_calc_flutter). 
 
     Developed using <mark>Flutter</mark>.
 
@@ -28,7 +28,7 @@
 - layout: left
   name: Digital Certificate Authentication System
   description: |+ # this will include new lines to allow paragraphs
-    This system is developed for specific University, allow the staff to generate student information into certificate in PDF format. Certificate is fully customizable.
+    This system is designed for a specific university, allowing staff to generate student information in PDF format. Certificate is completely customizable.
     Project run locally.
 
     Developed using <mark>Laravel</mark> <mark>MySQL</mark>.
@@ -38,8 +38,8 @@
 - layout: left
   name: CM Valley Visualization System
   description: |+ # this will include new lines to allow paragraphs
-    Main function of CM Valley is to assist the users to select compatible cameras and accessories easier using interactive diagram.
-    Main project run locally but you can try the prototype live version [here](https://cm-visualization.herokuapp.com/) (best experience with desktop size). 
+    The main function of CM Valley is to make it easier for users to select compatible cameras and accessories using an interactive diagram.   
+    Main project run locally, but you can try the live version of the prototype [here](https://cm-visualization.herokuapp.com/) (best experience with desktop size). 
 
     Developed using <mark>Laravel</mark> <mark>Bootstrap 4</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
 
@@ -48,7 +48,7 @@
 - layout: left
   name: An-Nur Management System
   description: |+ # this will include new lines to allow paragraphs
-    An-Nur Management System is a system that helps the staff to handle a volunteer and event information at An-Nur Mosque. This system also allows the volunteer to create account and view event information, which they can join as a volunteer.
+    An-Nur Management System is a system that helps staff manage volunteer information and event information at An-Nur Mosque. This system also allows volunteers to create an account and view the event information that they can join as a volunteer.
     Project run locally.
     
     Developed using <mark>HTML5</mark> <mark>Java</mark> <mark>Oracle</mark>.
