@@ -38,7 +38,7 @@
 - layout: left
   name: CM Valley Visualization System
   description: |+ # this will include new lines to allow paragraphs
-    The main function of CM Valley is to make it easier for users to select compatible cameras and accessories using an interactive diagram.   
+    The main function of CM Valley is to make it easier for users to select compatible cameras and accessories using an interactive diagram. 
     Main project run locally, but you can try the live version of the prototype [here](https://cm-visualization.herokuapp.com/) (best experience with desktop size). 
 
     Developed using <mark>Laravel</mark> <mark>Bootstrap 4</mark> <mark>D3.js</mark> <mark>MySQL</mark>.
